@@ -1,0 +1,10 @@
+let nome ="igor";
+let endereco ='parana';
+let gato = "filis";
+let gato1 = "pell";
+let gato2 = "zuke";
+console.log(`o nome do gato e ${gato}`);
+console.log(`o nome do gato1 e ${gato1}`);
+console.log(`o nome do gato2 e ${gato2}`);
+console.log(`o meu nome e ${nome}`);
+console.log(`o meu endereco e ${endereco}`);
