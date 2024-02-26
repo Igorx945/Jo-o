@@ -1,4 +1,3 @@
-let gato = 'filis'
 let inteiro = 10;
 let flutuante = 23.9;
 let inteiro1 = 20;
